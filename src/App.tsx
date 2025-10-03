@@ -1,4 +1,4 @@
-import React, { useState, useMemo } from "react";
+import  { useState, useMemo } from "react";
 import rawData from "./data/properties.json";
 import PropertyGrid from "./Components/PropertyGrid/PropertyGrid";
 import FilterPanel from "./Components/FilterPanel/FilterPanel";

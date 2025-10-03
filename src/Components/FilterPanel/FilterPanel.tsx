@@ -41,11 +41,11 @@ const FilterPanel: React.FC<FilterProps> = ({ onFilterChange }) => {
     }
   };
 
-  const applyFilters = () => {
-    const filters = { search, type, priceRange, sizeRange, location, amenities };
-    console.log("FilterPanel: applying filters:", filters); // debug
-    onFilterChange(filters);
-  };
+  // const applyFilters = () => {
+  //   const filters = { search, type, priceRange, sizeRange, location, amenities };
+  //   console.log("FilterPanel: applying filters:", filters); // debug
+  //   onFilterChange(filters);
+  // };
 
   const clearFilters = () => {
     setSearch(defaultFilters.search);
