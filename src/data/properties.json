@@ -1,0 +1,322 @@
+[
+  {
+    "id": "p1",
+    "title": "Downtown Office Tower",
+    "type": "office",
+    "price_per_sqft": 45,
+    "total_sqft": 15000,
+    "address": { "street": "123 Main St", "city": "New York", "state": "NY", "zip": "10001" },
+  "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1593941707874-ef25b8b76c72?w=800"
+    ],   
+    "amenities": ["parking", "wifi", "cafeteria"],
+    "date_listed": "2024-09-15",
+    "year_built": 2010,
+    "description": "Premium downtown office space with skyline views."
+  },
+  {
+    "id": "p2",
+    "title": "Suburban Retail Plaza",
+    "type": "retail",
+    "price_per_sqft": 32,
+    "total_sqft": 9000,
+    "address": { "street": "45 Elm Rd", "city": "Chicago", "state": "IL", "zip": "60601" },
+      "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1593941707874-ef25b8b76c72?w=800"
+    ],
+    "amenities": ["parking", "security"],
+    "date_listed": "2024-10-10",
+    "year_built": 2005,
+    "description": "High-footfall retail plaza in suburban market."
+  },
+  {
+    "id": "p3",
+    "title": "Industrial Park Unit",
+    "type": "industrial",
+    "price_per_sqft": 20,
+    "total_sqft": 30000,
+    "address": { "street": "88 Factory Ln", "city": "Houston", "state": "TX", "zip": "77001" },
+     "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1593941707874-ef25b8b76c72?w=800"
+    ],
+    "amenities": ["loading dock", "security"],
+    "date_listed": "2024-11-05",
+    "year_built": 1995,
+    "description": "Large industrial unit with excellent transport links."
+  },
+  {
+    "id": "p4",
+    "title": "Warehouse Hub",
+    "type": "warehouse",
+    "price_per_sqft": 18,
+    "total_sqft": 50000,
+    "address": { "street": "500 Logistics Dr", "city": "Dallas", "state": "TX", "zip": "75201" },
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1593941707874-ef25b8b76c72?w=800"
+    ],
+    "amenities": ["parking", "loading dock"],
+    "date_listed": "2024-09-28",
+    "year_built": 2008,
+    "description": "Spacious warehouse in key logistics hub."
+  },
+  {
+    "id": "p5",
+    "title": "Creative Loft Office",
+    "type": "office",
+    "price_per_sqft": 38,
+    "total_sqft": 6000,
+    "address": { "street": "200 Broadway", "city": "San Francisco", "state": "CA", "zip": "94101" },
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1593941707874-ef25b8b76c72?w=800"
+    ],
+    "amenities": ["wifi", "cafeteria", "gym"],
+    "date_listed": "2024-08-18",
+    "year_built": 2015,
+    "description": "Trendy loft-style office with open layout."
+  },
+  {
+    "id": "p6",
+    "title": "Shopping Center",
+    "type": "retail",
+    "price_per_sqft": 40,
+    "total_sqft": 25000,
+    "address": { "street": "77 Mall Rd", "city": "Miami", "state": "FL", "zip": "33101" },
+   "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1593941707874-ef25b8b76c72?w=800"
+    ],
+    "amenities": ["parking", "security", "cafeteria"],
+    "date_listed": "2024-10-02",
+    "year_built": 2012,
+    "description": "Large shopping complex with anchor tenants."
+  },
+  {
+    "id": "p7",
+    "title": "Tech Campus Office",
+    "type": "office",
+    "price_per_sqft": 50,
+    "total_sqft": 20000,
+    "address": { "street": "101 Silicon Ave", "city": "San Jose", "state": "CA", "zip": "95101" },
+     "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1593941707874-ef25b8b76c72?w=800"
+    ],
+    "amenities": ["wifi", "gym", "cafeteria"],
+    "date_listed": "2024-09-20",
+    "year_built": 2018,
+    "description": "Modern tech office with smart facilities."
+  },
+  {
+    "id": "p8",
+    "title": "Logistics Mega Warehouse",
+    "type": "warehouse",
+    "price_per_sqft": 22,
+    "total_sqft": 100000,
+    "address": { "street": "999 Supply Chain Blvd", "city": "Atlanta", "state": "GA", "zip": "30301" },
+     "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1593941707874-ef25b8b76c72?w=800"
+    ],
+    "amenities": ["loading dock", "security", "parking"],
+    "date_listed": "2024-11-01",
+    "year_built": 2011,
+    "description": "Massive warehouse ideal for e-commerce storage."
+  },
+  {
+    "id": "p9",
+    "title": "Downtown Retail Strip",
+    "type": "retail",
+    "price_per_sqft": 28,
+    "total_sqft": 12000,
+    "address": { "street": "88 Market St", "city": "Boston", "state": "MA", "zip": "02101" },
+     "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1593941707874-ef25b8b76c72?w=800"
+    ],
+    "amenities": ["parking", "wifi"],
+    "date_listed": "2024-09-11",
+    "year_built": 2000,
+    "description": "Retail strip with strong pedestrian traffic."
+  },
+  {
+    "id": "p10",
+    "title": "Light Industrial Facility",
+    "type": "industrial",
+    "price_per_sqft": 25,
+    "total_sqft": 20000,
+    "address": { "street": "11 Industrial Way", "city": "Detroit", "state": "MI", "zip": "48201" },
+  "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1593941707874-ef25b8b76c72?w=800"
+    ],
+    "amenities": ["loading dock", "parking"],
+    "date_listed": "2024-09-30",
+    "year_built": 1990,
+    "description": "Medium-sized facility for light manufacturing."
+  },
+  {
+    "id": "p11",
+    "title": "Financial District Office",
+    "type": "office",
+    "price_per_sqft": 55,
+    "total_sqft": 18000,
+    "address": { "street": "500 Wall St", "city": "New York", "state": "NY", "zip": "10005" },
+     "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1593941707874-ef25b8b76c72?w=800"
+    ],
+    "amenities": ["wifi", "gym", "cafeteria", "parking"],
+    "date_listed": "2024-08-12",
+    "year_built": 2020,
+    "description": "Premium office in NYC financial hub."
+  },
+  {
+    "id": "p12",
+    "title": "Neighborhood Retail Shops",
+    "type": "retail",
+    "price_per_sqft": 30,
+    "total_sqft": 8000,
+    "address": { "street": "7 Oak St", "city": "Austin", "state": "TX", "zip": "73301" },
+     "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1593941707874-ef25b8b76c72?w=800"
+    ],
+    "amenities": ["parking", "wifi"],
+    "date_listed": "2024-07-28",
+    "year_built": 2016,
+    "description": "Retail shops with mix of small tenants."
+  },
+  {
+    "id": "p13",
+    "title": "Heavy Industrial Plant",
+    "type": "industrial",
+    "price_per_sqft": 15,
+    "total_sqft": 80000,
+    "address": { "street": "300 Steel Rd", "city": "Pittsburgh", "state": "PA", "zip": "15201" },
+      "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1593941707874-ef25b8b76c72?w=800"
+    ],
+    "amenities": ["loading dock", "security"],
+    "date_listed": "2024-10-15",
+    "year_built": 1985,
+    "description": "Heavy industry plant with rail access."
+  },
+  {
+    "id": "p14",
+    "title": "Distribution Center",
+    "type": "warehouse",
+    "price_per_sqft": 19,
+    "total_sqft": 60000,
+    "address": { "street": "400 Transit Rd", "city": "Columbus", "state": "OH", "zip": "43004" },
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1593941707874-ef25b8b76c72?w=800"
+    ],
+    "amenities": ["loading dock", "parking"],
+    "date_listed": "2024-08-08",
+    "year_built": 2014,
+    "description": "Distribution hub for regional logistics."
+  },
+  {
+    "id": "p15",
+    "title": "Corporate Campus Office",
+    "type": "office",
+    "price_per_sqft": 48,
+    "total_sqft": 25000,
+    "address": { "street": "200 Enterprise Pkwy", "city": "Seattle", "state": "WA", "zip": "98101" },
+     "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1593941707874-ef25b8b76c72?w=800"
+    ],
+    "amenities": ["gym", "cafeteria", "parking"],
+    "date_listed": "2024-09-05",
+    "year_built": 2019,
+    "description": "Modern office campus with flexible workspaces."
+  },
+  {
+    "id": "p16",
+    "title": "Seaside Retail Market",
+    "type": "retail",
+    "price_per_sqft": 35,
+    "total_sqft": 14000,
+    "address": { "street": "123 Ocean Blvd", "city": "San Diego", "state": "CA", "zip": "92101" },
+      "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1593941707874-ef25b8b76c72?w=800"
+    ],
+    "amenities": ["wifi", "parking"],
+    "date_listed": "2024-07-20",
+    "year_built": 2013,
+    "description": "Retail market near seaside promenade."
+  },
+  {
+    "id": "p17",
+    "title": "Small Industrial Workshop",
+    "type": "industrial",
+    "price_per_sqft": 22,
+    "total_sqft": 12000,
+    "address": { "street": "50 Tools Rd", "city": "Cleveland", "state": "OH", "zip": "44101" },
+      "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1593941707874-ef25b8b76c72?w=800"
+    ],
+    "amenities": ["parking"],
+    "date_listed": "2024-09-25",
+    "year_built": 1998,
+    "description": "Compact industrial workshop for SMEs."
+  },
+  {
+    "id": "p18",
+    "title": "Logistics Warehouse",
+    "type": "warehouse",
+    "price_per_sqft": 21,
+    "total_sqft": 40000,
+    "address": { "street": "88 Freight Ave", "city": "Memphis", "state": "TN", "zip": "38101" },
+      "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1593941707874-ef25b8b76c72?w=800"
+    ],
+    "amenities": ["loading dock", "security"],
+    "date_listed": "2024-09-14",
+    "year_built": 2009,
+    "description": "Warehouse facility with highway access."
+  },
+  {
+    "id": "p19",
+    "title": "Luxury Office Suites",
+    "type": "office",
+    "price_per_sqft": 60,
+    "total_sqft": 10000,
+    "address": { "street": "88 Park Ave", "city": "Los Angeles", "state": "CA", "zip": "90001" },
+     "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1593941707874-ef25b8b76c72?w=800"
+    ],
+    "amenities": ["wifi", "parking", "cafeteria"],
+    "date_listed": "2024-10-12",
+    "year_built": 2021,
+    "description": "High-end office suites for corporate clients."
+  },
+  {
+    "id": "p20",
+    "title": "Urban Retail Corner",
+    "type": "retail",
+    "price_per_sqft": 34,
+    "total_sqft": 6000,
+    "address": { "street": "11 5th Ave", "city": "Philadelphia", "state": "PA", "zip": "19101" },
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800",
+      "https://images.unsplash.com/photo-1593941707874-ef25b8b76c72?w=800"
+    ],
+    "amenities": ["wifi"],
+    "date_listed": "2024-08-30",
+    "year_built": 2017,
+    "description": "Retail corner property in bustling city center."
+  }
+]
